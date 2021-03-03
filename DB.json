@@ -1,0 +1,85 @@
+[
+  {
+    "username": "David_IZ",
+    "password": "hello",
+    "name": "David",
+    "weights": [
+      65,
+      65.6,
+      65.8,
+      65.1,
+      64.8,
+      65.3,
+      64.5,
+      64.3,
+      65.1,
+      66.3
+    ],
+    "heights": [
+      176
+    ],
+    "age": 16,
+    "gender": "male",
+    "BMI_history": [
+      20.98,
+      21.18,
+      21.24,
+      21.02,
+      20.92,
+      21.08,
+      20.82,
+      20.76,
+      21.02,
+      21.4
+    ],
+    "excludes": [
+      "pork",
+      "alcohol"
+    ],
+    "search_history": [
+      {
+        "item": 1,
+        "value": "Asparagus omelette",
+        "id": 1094433,
+        "ranking": 77
+      }
+    ],
+    "CalorieNeeds": 1675.0
+  },
+  {
+    "username": "Zadrot228",
+    "password": "228zadrot",
+    "name": "Vlad",
+    "weights": [
+      70,
+      69.0
+    ],
+    "heights": [
+      176
+    ],
+    "age": 15,
+    "gender": "male",
+    "BMI_history": [
+      22.6,
+      22.28
+    ],
+    "excludes": [
+      "alcohol"
+    ],
+    "search_history": [
+      {
+        "item": 1,
+        "value": "Karpathian Cucumber Boats",
+        "id": 102967,
+        "ranking": 100
+      },
+      {
+        "item": 2,
+        "value": "Cucumber Boats",
+        "id": 102947,
+        "ranking": 56
+      }
+    ],
+    "CalorieNeeds": 1730.0
+  }
+]
