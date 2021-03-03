@@ -1,6 +1,6 @@
 # HealthierEveryDay
 
-Back End:
+Back End: 
 DB.json - file where the data about users is saved (internally in the project directory)
 DailyCalories - is a file that has 2 functions inside that help the program calculate your DCI - daily calorie needs
 algorithms.py - just has a function that helped me sort the data of the api
